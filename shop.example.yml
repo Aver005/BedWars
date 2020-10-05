@@ -1,0 +1,40 @@
+ID: SHOP1
+Title: SHOP1
+Creator: e3063baa-094d-3704-8585-242cc5aa095c
+Pages:
+  MainPage:
+    Title: '&8&lМагазин предметов'
+    Slots: 27
+    Item-10:
+      ICON-NAME: '&8Оружие'
+      ICON-ID: 267
+      ICON-DATA: 0
+      TYPE: 'CATEGORY'
+      CATEGORY: 'GUNS'
+  GUNS:
+    Title: '&8&lМагазин оружия'
+    Slots: 27
+    Item-10:
+      ICON-NAME: '&8Палка - кидалка'
+      ICON-ID: 280
+      ICON-DATA: 0
+      TYPE: 'ITEM'
+      ITEM-ID: 280
+      ITEM-DATA: 0
+      ITEM-PRICE: '4I 0G 0D 0E'
+    Item-11:
+      ICON-NAME: '&8Деревянный меч'
+      ICON-ID: 268
+      ICON-DATA: 0
+      TYPE: 'ITEM'
+      ITEM-ID: 268
+      ITEM-DATA: 0
+      ITEM-PRICE: '11I 0G 0D 0E'
+    Item-12:
+      ICON-NAME: '&8Каменный меч'
+      ICON-ID: 272
+      ICON-DATA: 0
+      TYPE: 'ITEM'
+      ITEM-ID: 272
+      ITEM-DATA: 0
+      ITEM-PRICE: '0I 8G 0D 0E'

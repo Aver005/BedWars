@@ -1,0 +1,8 @@
+name: BedWars
+main: kiviuly.bedwars.Main
+version: 1.8
+author: Aver005
+commands:
+  bedwars:
+    usage: /bw HELP
+    aliases: [bw, bws]
